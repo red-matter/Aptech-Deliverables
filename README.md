@@ -1,2 +1,2 @@
 # HTML-classes
-Used to submit deliverables to Aptech
+Used to submit html deliverables to Aptech
